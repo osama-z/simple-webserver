@@ -3,7 +3,7 @@ This project demonstrates how to create a local folder named "html_files," run a
 
 # Getting Started
 
-1-Create the "html_files" Folder
+1-Create the "html_files" Folder.
 2-Inside the "html_files" folder, create a new file and name it "name.html". Add some HTML content to this file.
 3-To run the web server, we'll use Python's built-in HTTP server. Open your terminal or command prompt and navigate to the "html_files" folder .
 
